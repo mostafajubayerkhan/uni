@@ -10,13 +10,15 @@ content: Nullam id dolor id nibh ultricies vehicula ut id elit. Cras mattis cons
 # Add your social links
 social:
   - platform: github
-    url: https://github.com/brianmaierjr
+    url: https://github.com/mostafajubayerkhan
   - platform: facebook
     url: https://facebook.com/jubayermustafa
   - platform: twitter
-    url: https://twitter.com/MJkhan001
+    url: https://twitter.com/MJkhan01
   - platform: linkedin
     url: mostafa-jubayer-khan
+  - platform: youtube
+    url: mostafa jubayer khan
 
 # General settings
 # url: http://brianmaierjr.github.com/uni
