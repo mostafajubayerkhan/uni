@@ -9,19 +9,19 @@ content: Hi, I’m Mostafa, a passionate Data Driven technology enthusiast. I am
 
 # Add your social links
 social:
+  - platform: linkedin
+    url: https://linkedin.com/in/mostafa-jubayer-khan/
   - platform: github
     url: https://github.com/mostafajubayerkhan
   - platform: facebook
     url: https://facebook.com/jubayermustafa
   - platform: twitter
     url: https://twitter.com/MJKhan01
-  - platform: linkedin
-    url: https://linkedin.com/in/mostafa-jubayer-khan/
   - platform: youtube
     url: https://youtube.com/channel/UC1kipe4ux_hKxApqJXPQSKg?view_as=subscriber
 
 # General settings
-# url: http://brianmaierjr.github.com/uni
+# url: http://mostafajubayerkhan.github.com/uni
 # baseurl: "/uni" 
 markdown: kramdown
 sharing_image: share.jpg
