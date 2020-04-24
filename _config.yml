@@ -5,7 +5,7 @@ title: Mostafa Jubayer Khan
 description:  The beautiful website of an Data Analyst, Machine Learning Experts, Photographer, and avid juggler, Mostafa Jubayer Khan.
 
 # A brief blurb about yourself
-content: Hi, I’m Mostafa, a passionate Data Driven technology enthusiast. I am highly fascinated by the opportunities created by the abundance of data and computing power in the modern corporate industry. Experienced Data Analyst with a demonstrated history of working in the information technology and services industry. Skilled in Programming( Python, R, SAS, Java) for Data Science (Mathematics, Statistics, Machine Learning algorithm), Database Management (SQL Server 2008/2012, T-SQL, NoSQL, Azure, AWS,), and Data Visualization tools (Power BI, Tableau, Cognos, Tibco Spotfire) etc. Strong mathematical, statistical and programming professional with a Masters of Science (M.Sc.) focused in Data Analytics from Christian Brothers University.
+content: Hi, I’m Mostafa, a passionate Data Driven cutting edge technology enthusiast. I am highly fascinated by the opportunities created by the abundance of data and computing power in the modern corporate industry. Experienced Data Analyst with a demonstrated history of working in the information technology and services industry. Skilled in Programming( Python, R, SAS, Java) for Data Science (Mathematics, Statistics, Machine Learning algorithm), Database Management (SQL Server 2008/2012, T-SQL, NoSQL, Azure, AWS,), and Data Visualization tools (Power BI, Tableau, Cognos, Tibco Spotfire) etc. Strong mathematical, statistical and programming professional with a Masters of Science (M.Sc.) focused in Data Analytics from Christian Brothers University.
 
 # Add your social links
 social:
@@ -30,7 +30,7 @@ google_analytics: "UA-58263416-1" # google analytics tracking
 #### LAYOUT OPTIONS #####
 
 # Half layout
-full-mid.jpg: right
+half_text.jpg: right
 
 # Full layout
 full_text_position: right # left, right or center
